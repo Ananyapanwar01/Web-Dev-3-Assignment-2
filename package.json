@@ -1,0 +1,20 @@
+{
+  "name": "student-management-rest-api",
+  "version": "1.0.0",
+  "description": "Student Management REST API using Node.js and Express.js (Unit-2 Lab Assignment 2)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "crud"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
