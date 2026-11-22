@@ -1,4 +1,4 @@
-// In-memory student records array
+
 let students = [
   {
     id: 1,
